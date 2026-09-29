@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-I am a Product Designer + Design Engineer with 6+ years of experience and a strong foundation in Computer Science. I design and build scalable digital products that users enjoy and that drive business metrics.
+I'm a Senior Design Engineer & Product Designer with 6+ years of experience driving complex digital products from problem to production. I combine user research, information architecture, design systems, interaction design, and accessibility standards with frontend engineering, bridging design and development to accelerate delivery, improve collaboration, and reduce handoff friction. My cross-industry track record spans AI, SaaS, Fintech, Edtech, and Blockchain, with measurable impact including an 85% booking completion rate, 48% faster design-to-development handoffs, and scalable greenfield platforms powering 25,000+ users.
 
-I specialize in transforming complex problems into intuitive, scalable, and high-performing experiences for web, mobile, and digital systems across AI, B2B SaaS, Fintech, Edtech, Blockchain, and enterprise communication.
+Building **[Cread](https://github.com/boastack)** — design systems with conviction.
 
-*Building [Cread](https://gocreed.io) — design systems with conviction.*
+---
+
+- 🎨 **Focus:** Design systems, immersive interactions, OKLCH color science, headless UI primitives, and multi-framework package architecture.
+- 🌐 **Portfolio:** [olawalemi.com](https://olawalemi.com) | **X:** [@walebuilds_](https://x.com/walebuilds_)
