@@ -4,8 +4,6 @@ I am a Senior Design Engineer & Product Designer with 6+ years of experience dri
 
 Building **[Cread](https://github.com/boastack)** — design systems with conviction.
 
-<hr style="border: none; border-top: 1px solid #e1e4e8;" />
-
-🎯 **Focus:** Design systems, accessibility, immersive interactions, OKLCH color science, headless UI primitives, and multi-framework package architecture <br />
+🎯 **Focus:** AI, Design Systems, Accessibility, OKLCH Color Science, Immersive Interaction, Open Source <br />
 🛠 **Stack:** TypeScript · React · GSAP · Three.js · WebGL · GLSL · Figma · Framer <br />
 🌐 **Connect:** [olawalemi.com](https://olawalemi.com) | **X:** [@walebuilds_](https://x.com/walebuilds_) <br />
